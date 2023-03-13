@@ -1,0 +1,17 @@
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\stringCalculator.Tests.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\stringCalculator.Tests.pdb
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\stringCalculator\stringCalculator.Tests\obj\Debug\stringCalculator.Tests.csproj.AssemblyReference.cache
+D:\C#\stringCalculator\stringCalculator.Tests\obj\Debug\stringCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\C#\stringCalculator\stringCalculator.Tests\obj\Debug\stringCalculator.Tests.dll
+D:\C#\stringCalculator\stringCalculator.Tests\obj\Debug\stringCalculator.Tests.pdb
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\xunit.abstractions.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\xunit.core.dll
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\xunit.abstractions.xml
+D:\C#\stringCalculator\stringCalculator.Tests\bin\Debug\xunit.core.xml
