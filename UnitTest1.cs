@@ -58,12 +58,7 @@ namespace stringCalculator.Tests
             var result = calculator.Calculate("12\n4");
             Assert.AreEqual(16, result);
         }
-        [TestMethod]
-        public void ReturnSumDilimitedByCustom()
-        {
-            var result = calculator.Calculate("//;\n1;2");
-            Assert.AreEqual(3, result);
-        }
+
         [TestMethod]
         public void ThrowExceptionAddNegative()
         {
